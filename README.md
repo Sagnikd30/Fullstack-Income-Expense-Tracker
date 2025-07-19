@@ -5,6 +5,7 @@ A responsive, modern fullstack web app to track income and expenses with rich vi
 - Income & Expense CRUD
 - Chart.js-based Bar, Pie, and Line Charts
 - Profile Photo Upload
+- Download ur Income and Expense in excel file
 - Responsive Dashboard with TailwindCSS
 - Data Persistence with MongoDB
 
